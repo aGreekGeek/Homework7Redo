@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project demonstrates how to use Docker with Python to create a program that generates a QR code containing a URL. The QR code can be scanned using a phone's camera to open the target website. For this assignment, the QR code redirects users to my GitHub homepage: [https://github.com/aGreekGeek](https://github.com/aGreekGeek).
+This project demonstrates how to use Docker with Python to create a program that generates a QR code containing a URL. The QR code can be scanned using a phone's camera to open the target website. For this assignment, the QR code redirects users to this GitHub repository: [https://github.com/aGreekGeek/Homework7Redo](https://github.com/aGreekGeek/Homework7Redo).
 
 ## Submission Requirements
 ![image](https://github.com/user-attachments/assets/e645208d-c65f-4a7f-a9e4-02c4a1f1b3e0)
