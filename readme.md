@@ -7,6 +7,9 @@ This project demonstrates how to use Docker with Python to create a program that
 ## Submission Requirements
 ![image](https://github.com/user-attachments/assets/e645208d-c65f-4a7f-a9e4-02c4a1f1b3e0)
 
+### Docker Logs from VSCODE
+![image](https://github.com/user-attachments/assets/c1e148e5-65bf-4d6a-857e-2ec9856be479)
+
 ## Requirements 
 
 - **Python**: The program uses Python and the `qrcode` library to generate QR codes.
